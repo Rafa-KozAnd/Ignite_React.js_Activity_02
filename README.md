@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_React.js_Activity_02">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_React.js_Activity_02">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_React.js_Activity_02">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_React.js_Activity_02">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_React.js_Activity_02">
+</p>
+
+# Ignite_React.js_Activity_02
+
+React JS activity done with 'Rocketseat' Ignite course. ("Chapter III")
+
+## 💻 Sobre o capítulo III - Fundamentos do Next.js, Back-end no front-end, Front-end JAMStack.
+
+Nesse módulo entenderemos como Next.js transforma a nossa maneira de desenvolver aplicações front-end e descobriremos conceitos importantes como SSR e SSG.
+Durante esse módulo entenderemos como o front-end se transformou nos últimos anos com a possibilidade de termos funções back-end (serverless) executando em um ambiente front-end.
+É muito comum o desenvolvimento de aplicações front-end que não estão conectadas a um único back-end hoje em dia, por isso, aqui vamos entender o conceito de JAMStack e como conectar nosso front-end com um CMS.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
